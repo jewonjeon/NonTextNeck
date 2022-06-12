@@ -1,7 +1,7 @@
 # NonTextNeck
 
 
-InfluxDB 설치방법
+## InfluxDB 설치방법
 
   0.라즈베리파이 업데이트
   ```
